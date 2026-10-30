@@ -1,0 +1,9 @@
+{
+  "database_name": "agriculture_ops",
+  "tables": [
+    "collection_centers",
+    "farmers",
+    "procurement",
+    "payments"
+  ]
+}
